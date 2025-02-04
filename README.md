@@ -1,0 +1,22 @@
+
+#Bellabeat Case Study With R with #R #dataanalysis
+
+<b>This analysis is available on <a href="https://www.kaggle.com/code/borakarayel/bellabeat-case-study-with-r" target="_blank"> my Kaggle account.</a></b>
+
+This case study, conducted to complete the Google Data Analytics Course, analyzes Bellabeat’s smart device usage using R.
+Key insights reveal that higher activity levels improve sleep and calorie burn. Visualizations highlight user behavior trends, 
+leading to recommendations for targeted marketing and product improvements.
+These findings provide data-driven strategies to enhance Bellabeat’s engagement and growth.
+
+[](https://www.kaggleusercontent.com/kf/218067698/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NMp6TXeyTp-147eCas_-kA.SeWzSHL-zLOFMLyGe2lv5z9y0SC7ub3euydOG9kgVtkt7n_ErUd4DZAR_JKOui3a7GRZ-uRq5wqboBSJZ4Mq6KAju2_7JV7nY6_FnVu6j8_YbIbd3oXyU-nfK86g-TX-zwsW1NNtN7u5R0If7vCZTdHjPMMMsDibBmY_nafy-9EdDSvxcloHg5fNVUWyEQNj13vfjdCmZ6vEqDFm_MKumyt981g4rLrQuwulvEA8W_zyyvxfcU4jcue9rgOgs-G96A_hqhe_LcIp9EQbANDe_2CPmbVO2eAgCKEWdRXtEj9DrTiQJ6SssxH69_wPcPY3Xwjhm4r8YCOZieCBaTjC2PMRWJwuveG3Bu77nDymI3qqKlvAsMw8_B5UApRw0b5Js3YGhb-PMDIoZbBz0YUavJt9ZDI8ohM4HElfmIVmn4s0f-qqXC3Rhu3VBfPdOgMy1ps3bbMZjYzaFHwYC-2Lf-pE1B-FccoJF4FZIt5GwZQpJpUIKLQI2_rFo7Nh_xefC1W_acech6dlndTg2PpyLw9mJ1GJz21KJ15UgAXSTMt1h39BHoRm7Vn1BIbLdJf_W_wzOE-Vw2N_GF1uONFAe2UiBGpnWZbzSz7emT6of4X-qEfGxSF0gmlxd7SYSD9Pdp079bWyD1jCt9Ai4ArpGw.RqiVY2xeV9HVoCsHJBbTXw/__results___files/__results___30_0.png)
+<img src="https://www.kaggleusercontent.com/kf/218067698/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NMp6TXeyTp-147eCas_-kA.SeWzSHL-zLOFMLyGe2lv5z9y0SC7ub3euydOG9kgVtkt7n_ErUd4DZAR_JKOui3a7GRZ-uRq5wqboBSJZ4Mq6KAju2_7JV7nY6_FnVu6j8_YbIbd3oXyU-nfK86g-TX-zwsW1NNtN7u5R0If7vCZTdHjPMMMsDibBmY_nafy-9EdDSvxcloHg5fNVUWyEQNj13vfjdCmZ6vEqDFm_MKumyt981g4rLrQuwulvEA8W_zyyvxfcU4jcue9rgOgs-G96A_hqhe_LcIp9EQbANDe_2CPmbVO2eAgCKEWdRXtEj9DrTiQJ6SssxH69_wPcPY3Xwjhm4r8YCOZieCBaTjC2PMRWJwuveG3Bu77nDymI3qqKlvAsMw8_B5UApRw0b5Js3YGhb-PMDIoZbBz0YUavJt9ZDI8ohM4HElfmIVmn4s0f-qqXC3Rhu3VBfPdOgMy1ps3bbMZjYzaFHwYC-2Lf-pE1B-FccoJF4FZIt5GwZQpJpUIKLQI2_rFo7Nh_xefC1W_acech6dlndTg2PpyLw9mJ1GJz21KJ15UgAXSTMt1h39BHoRm7Vn1BIbLdJf_W_wzOE-Vw2N_GF1uONFAe2UiBGpnWZbzSz7emT6of4X-qEfGxSF0gmlxd7SYSD9Pdp079bWyD1jCt9Ai4ArpGw.RqiVY2xeV9HVoCsHJBbTXw/__results___files/__results___30_0.png">
+
+
+
+
+
+
+
+
+
+
